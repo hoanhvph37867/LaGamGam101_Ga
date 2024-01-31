@@ -7,6 +7,10 @@ TagManager:
   - ground
   - obstacles
   - PanelEndGame
+  - fruits
+  - weapon
+  - checkpoint
+  - end
   layers:
   - Default
   - TransparentFX
